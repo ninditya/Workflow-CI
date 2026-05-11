@@ -1,0 +1,5 @@
+# Place earthquake_preprocessing.csv here
+# Generate it by running:
+#   cd Eksperimen_SML_Ninditya/preprocessing
+#   python automate_Ninditya.py
+# Then copy earthquake_preprocessing/earthquake_preprocessing.csv to this folder.

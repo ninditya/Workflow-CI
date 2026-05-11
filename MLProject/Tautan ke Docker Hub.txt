@@ -1,0 +1,8 @@
+Docker Hub Image:
+https://hub.docker.com/r/nindit/earthquake-ml-model
+
+Pull command:
+  docker pull nindit/earthquake-ml-model:latest
+
+Run (serves on port 5001):
+  docker run -p 5001:5001 nindit/earthquake-ml-model:latest

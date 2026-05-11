@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ninditya/submission-METC-Membangun-Sistem-Machine-Learning/Workflow-CI/mlruns/0/acc32ee9e1ea4ae097b869b5ea47218d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acc32ee9e1ea4ae097b869b5ea47218d
+run_name: languid-snail-22
+run_uuid: acc32ee9e1ea4ae097b869b5ea47218d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778249750205
+status: 1
+tags: []
+user_id: ninditya
